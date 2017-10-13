@@ -11,5 +11,6 @@
     "title": "Solo",
     "name": "solo",
     "channelId": "117407923",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": true
 }
